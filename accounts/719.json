@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bubbly-upgrade-320609",
+  "private_key_id": "96f6446f35e1d3ad49bec7b3a4e1983147a9fc76",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiLzoCrk+y+ER8\nf7B/PgqO/f+kB5rKghbVc4DoTd7MFnrd+SlhjpqW5/3+siafPtcZGxdwwl1xTNWG\nyBr+qVlv1Be3xTwqW3AXi2IHlwcqgNRVNr6/W7CndzKY1AZ3bdPEVcfRjGfLbHOM\n7jeH9wwO12qzVZepfmvLW7fd8qEmw6gk5H4KlovIi7Ff7XWT0Xoa/ITuXaAKTa6i\nAig7/pPcAPIeRkIIVeFHlSpkO5YMc9yYoR2mm2s6LzCHicWMs6vwrJvvZR3Rbfb/\nJz8bQfcl11ry0ZT45qBJpcwRFMLdqHMn07AyMe7VPFdvdO62e65ZdNmt4Ixh1hm2\n3t4++0NBAgMBAAECggEAB2DZpUST2KMFzpoqh+dlKJMynZ5A8wSPEF/kVe0w/Rzq\nsw2CTe9kZggg3ITzT9xWgcxjORyGjsB9mFejLsG6kWVXPOOKtKybQV70cz7yMwNQ\nZZ4LeH4t37iDA0PmFWnYL/7tC8H0+OKysQ8nVJavJD+1mXoD39CiC8rc5wqCPVan\n1aPICmk+qTCdk9wlwquZ5v2kL69gX2EyPle+8evinxK7Tz+/vLVk4dT1ICToTHSe\nA7YIifgATES76cHa9SS66YIAbMwfAe9BlVE79q10+GHOmYXkXDXSQCqyDwXUFn5J\nLMOfcG731JdT2ZkOzj8ybAvBCvaOIaO8acwK0rabDwKBgQDN4pnS8GN2mzqfYJcA\n6GwZ8gpQtDRDjep+enxDxv9hgJ2MEC+V5OO0vO0N2ZH7sm2+2bRUQDdfAGglP1k5\niadCOU+mNCn+IevaowPOTXZpjXvms4dP/9Or+ZC6CUu1lym6fd/rwSnD6bn8A11r\nLDw2Pdw8zRWS1FxDVShm8DINAwKBgQDJqX0j5RGiCmPD80ExwU2K3mnWsc5Xe93K\nJWCabcyIshRUPXrVJEAbsXAA+JBoODN/TPsatj1i94gXTbRp7KpEWHL9TfdwDGOg\nwQr9EYE55Ilka42YjTb6JwtkOa5sxSdMbfOUApPNBhz1S3jN//cze4hginMLDUtL\nlOQMg/DxawKBgQCqJOoaeK66Be6cZ6ZjCbDMgEomB8ZpTY7Ml0y6dmn2meOZLIcm\nyNGlO7xsBbGu3/XyEtgECE26JQvsPD3wXuHqyJIaOGG7syzGspEinMGO2W3baeIZ\nKsIzDTudgrEekJ3bkMrMegWZ8j3RFrbNKvFXoiev14xMm1LkEiwhZb73IQKBgAl+\nJfrjlJHpJUsbD02VSN4pnBfUJN9vYEBcxBBg7MjegSB6CGcyHqZvEtOo37tYMexj\nJkram0cmWcynBsAZuOYgt8D+w5ANtT7i9250PX4JKQKGIZM1yom5/spIANLz8Oaj\nIl0sReLXz9MoK1afHvbYcNICkmnJxWqYZqfEKjpjAoGAXgb7N0UxVPZTtayX90po\ndZqOK8Gow+65HLorGy1V7ovSwdf7e3FdvzCrgj1yPik3s+i57IKbQRJCFAWGVp46\noJFTcattC58dqHseaMDbBuqZzlpTYDbaTQFWYTQg75/a2ZkSVB5j5TBkQRm2wiUb\nZlE9P0dgo/6gAJ7icSDKc70=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-7bj1x2w584ozklnn61v030h90m@bubbly-upgrade-320609.iam.gserviceaccount.com",
+  "client_id": "102642877383803842460",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-7bj1x2w584ozklnn61v030h90m%40bubbly-upgrade-320609.iam.gserviceaccount.com"
+}
